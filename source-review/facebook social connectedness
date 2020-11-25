@@ -1,0 +1,7 @@
+Name: Facebook - Social Connectedness
+Address: https://dataforgood.fb.com/tools/social-connectedness-index/
+Cost: 0
+Prose: The Social Connectedness Index measures the strength of connectedness between two geographic areas as represented by Facebook friendship ties. 
+These connections can reveal important insights about the impact the ties have had to swinging results in key states/counties
+Pattern: Can be used in connection with county level census and voting information
+Type: Should be a one time download, might not need to scrape continuously.
